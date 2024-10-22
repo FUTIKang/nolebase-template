@@ -24,7 +24,7 @@ export const creators: Creator[] = [
     avatar: '',
         username: 'FUTIKang',
     title: 'GNF-Social 原始创作者',
-    desc: '开发者，专注于基础设施维护，数据分析，后端、DevOps 开发',
+    desc: '全栈开发工程师, JAVA后端开发 & React前端开发',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/FUTIKang' },
     //   { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/ayakaneko' },
