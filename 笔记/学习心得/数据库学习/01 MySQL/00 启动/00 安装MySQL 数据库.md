@@ -1,2 +1,0 @@
-### 00 [Linux 安装MySQL 8.0](obsidian://open?vault=%E7%AC%94%E8%AE%B0&file=%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97%2F%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%2F01%20MySQL%2F00%20%E5%90%AF%E5%8A%A8%2F01%20Linux%20%E5%AE%89%E8%A3%85MySQL)
-### 01 [Windows 安装MySQL]()

@@ -1,3 +1,17 @@
+---
+tags:
+  - 工具
+  - SpringBoot
+  - 软件开发
+  - 软件开发/SpringBoot
+---
+
+```
+---
+comment: false
+---
+```
+
 ### SpringBoot注解
 - 元数据形式，可提供有关程序的数据
 - 用于提供有关程序的补充信息
