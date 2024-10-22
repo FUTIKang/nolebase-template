@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: GU_Nanfa
+title: 孤南筏
 titleTemplate: 学习记录
 
 hero:
-  name: GU_Nanfa
+  name: 孤南筏
   text: 记录回忆，知识和畅想的地方
-  tagline: 这里是GU_Nanfa的随想「知识库」
+  tagline: 这里是孤南筏的随想「知识库」
   image:
     src: /logo.svg
     alt: Vitest
