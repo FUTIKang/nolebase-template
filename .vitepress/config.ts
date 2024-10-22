@@ -211,6 +211,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '笔记', link: '/笔记/' },
       { text: '生活', link: '/生活/' },
+      { text: '关于我', link: '/aboutMe' },
       { text: '最近更新', link: '/toc' },
     ],
     sidebar,
